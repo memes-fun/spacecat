@@ -1,0 +1,21 @@
+{
+    "name": "SpaceCat",
+    "symbol": "SPC",
+    "image":"https://raw.githubusercontent.com/memes-fun/spacecat/main/space-cat.png",
+    "description": "Space Cat is the savior of the great universe of memes. It is the cat with the power to cause trade pumps. It runs on the Solana.",
+    "extensions": {
+        "website": "",
+        "twitter": "",
+        "telegram": ""
+    },
+    "tags": [
+        "Meme",
+        "CAT",
+        "SOLANA",
+        "FUN TOKEN"
+    ],
+    "creator": {
+        "name": "",
+        "site": ""
+    }
+}
